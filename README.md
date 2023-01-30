@@ -36,3 +36,4 @@ EOF
 
 ## 参考
 * https://github.com/kubesphere/website/blob/4a98ae47cb26307899936a26c972dcb30ebd126d/content/zh/blogs/GPU-Operator.md
+* https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#supported-platforms
