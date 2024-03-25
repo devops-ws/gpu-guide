@@ -1,5 +1,12 @@
 # gpu-guide
 
+安装 `hd` 工具：`curl https://gitee.com/linuxsuren/tools/raw/master/install-zh.sh|bash`
+
+## 安装 Toolkit
+```shell
+hd i nvidia-container-toolkit
+```
+
 ## 安装 NVIDIA 容器运行时
 ```shell
 hd i nvidia-docker2
